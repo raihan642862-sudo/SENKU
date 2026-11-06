@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HEADSHOT AI PRO</string>
+    <string name="nav_arena">AI Arena</string>
+    <string name="nav_sensitivity">Sensitivity AI</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="security_badge">Standalone Anti-Cheat Safe Trainer • No Game Modification</string>
+</resources>
